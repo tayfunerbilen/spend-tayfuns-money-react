@@ -13,7 +13,7 @@ export default function App() {
   const [money, setMoney] = useState(startingMoney);
   const [basket, setBasket] = useState([]);
 
-  const addBasket = (id, total) => {
+  const toggleBasket = (id, total = 0) => {
     if (total === 0) {
       const products = basket
         .map((product) => {
@@ -28,16 +28,6 @@ export default function App() {
     }
   };
 
-  const removeBasket = (id) => {
-    const products = basket
-      .map((product) => {
-        if (product.id === id) product.total -= 1;
-        if (product.total !== 0) return product;
-      })
-      .filter(Boolean);
-    setBasket(products.length ? [...products] : []);
-  };
-
   useEffect(() => {
     if (basket.length) {
       let basketTotalPrice = basket
@@ -46,6 +36,8 @@ export default function App() {
         })
         .reduce((a, b) => a + b);
       setMoney(startingMoney - basketTotalPrice);
+    } else {
+      setMoney(startingMoney);
     }
   }, [basket]);
 
@@ -65,8 +57,7 @@ export default function App() {
             id={key}
             data={item}
             money={money}
-            addBasket={addBasket}
-            removeBasket={removeBasket}
+            toggleBasket={toggleBasket}
           />
         ))}
       </div>

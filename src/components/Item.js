@@ -9,12 +9,12 @@ function Item(props) {
   const buyBtn = () => {
     let newTotal = total + 1;
     setTotal(newTotal);
-    props.addBasket(props.id, newTotal);
+    props.toggleBasket(props.id, newTotal);
   };
 
   const sellBtn = () => {
     setTotal(total - 1);
-    props.removeBasket(props.id);
+    props.toggleBasket(props.id);
   };
 
   return (
