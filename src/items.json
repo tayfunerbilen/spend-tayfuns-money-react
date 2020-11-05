@@ -1,0 +1,77 @@
+[
+    {
+      "name": "DJI Osmo Pocket",
+      "price": 3450,
+      "image": "https://productimages.hepsiburada.net/s/23/375/10062295171122.jpg"
+    },
+    {
+      "name": "Magic Keyboard",
+      "price": 1000,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/617udtwofTL._AC_SL1280_.jpg"
+    },
+    {
+      "name": "Thunderbolt Display",
+      "price": 2500,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41NeJFTZXSL._AC_SL1000_.jpg"
+    },
+    {
+      "name": "MacBook Pro",
+      "price": 12000,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-space-select-202005_GEO_TR?wid=892&hei=820&&qlt=80&.v=1587947409483"
+    },
+    {
+      "name": "Harman/Kardon",
+      "price": 2500,
+      "image": "https://productimages.hepsiburada.net/s/40/375/10685501866034.jpg"
+    },
+    {
+      "name": "Rode SmartLav+",
+      "price": 794,
+      "image": "https://st2.myideasoft.com/shop/rc/57/myassets/products/701/5-rode-smartlav-plus-mikrofon_min.jpeg?revision=1477061234"
+    },
+    {
+      "name": "Rode NT1-A",
+      "price": 2450,
+      "image": "https://cdn.akakce.com/rode/rode-nt1-a-mikrofon-z.jpg"
+    },
+    {
+      "name": "Hue Play",
+      "price": 510,
+      "image": "https://productimages.hepsiburada.net/s/28/375/10229770813490.jpg"
+    },
+    {
+      "name": "Nazar Sakız",
+      "price": 0.5,
+      "image": "https://cdn.akakce.com/iv/8344/721/721287466z.jpg"
+    },
+    {
+      "name": "Ekmek",
+      "price": 2,
+      "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2-1650x1650.jpg"
+    },
+    {
+      "name": "Coca-cola 1Lt",
+      "price": 5,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQIsYKzhKJdx5fhkpoh8rhle5OyO_C9JqsSPbWXuCuUrFAPbCbJWVTtKScSwjOXmDAxsmcjlngQEHPVUbIes1MFOQVSU_eVXz2-WOeJVz5z1jm1UyJgzya45w&usqp=CAE"
+    },
+    {
+      "name": "Coca-cola 1Lt x 4",
+      "price": 15,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTsV4jpiF1AW115kIXefc8-SOKd3YhxR-jYWdHEBK7r6wib_QPsq21fwFAe5yWnnbhOaaVF-O_d4iuWw5gZZQQzNjgiC2sWe4JM0AM4Zvol9T3jRMdNH0b&usqp=CAE"
+    },
+    {
+      "name": "Revoshi BG 250Gr",
+      "price": 70,
+      "image": "https://nargiletr.net/image/cache/catalog/N-aroma/revoshi/revoshi-black-grape-600x600.jpg"
+    },
+    {
+      "name": "Kefo Tsira Nargile",
+      "price": 900,
+      "image": "https://n11scdn.akamaized.net/a1/450/mucevher-saat/sigara-seti-ve-aksesuari/kefo-tsira-cantali-nargile-takimi__0543336937251234.jpg"
+    },
+    {
+      "name": "Hermes Birkin 35",
+      "price": 489000,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGR9nrBz5mwlMj1ojKDHzgmAPVW54Ibc0qOkoD4vufBCkqU-FRsnhfL26WVH6LkKqHhLpYHrEWAPX88Alp2g8b-nvpK278Jre1Mmg2FaR9PorS9JL5_cjJ&usqp=CAE"
+    }
+  ]
